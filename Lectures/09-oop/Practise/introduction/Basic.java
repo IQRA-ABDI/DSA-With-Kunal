@@ -1,10 +1,9 @@
-package com.kunal.introduction;
 
 import java.sql.Struct;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Main {
+public class Basic {
     public static void main(String[] args) {
         // store 5 roll nos
         int[] numbers = new int[5];
