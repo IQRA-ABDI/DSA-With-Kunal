@@ -27,3 +27,9 @@
 - [Intersection of Two Arrays II [ Answer]](https://leetcode.com/problems/intersection-of-two-arrays-ii/solutions/3028511/java-soltion/)
 
 - [Fair Candy Swap [Answer]](https://leetcode.com/problems/fair-candy-swap/solutions/3028518/i-solved/)
+
+- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/solutions/3031172/solved/)
+
+- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/solutions/3031196/solved/)
+
+- [Binary Search](https://leetcode.com/problems/binary-search/solutions/3031199/i-solved/)
