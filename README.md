@@ -4,7 +4,7 @@
 
 November 7th, 2022
 
-I will update this repository everyday untill i finish this course.
+I will update this repository untill i finish this course.
 # 🔥DSA-Bootcamp-Java
 
 
